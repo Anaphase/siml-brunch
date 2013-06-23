@@ -1,7 +1,10 @@
-## siml-brunch
+siml-brunch
+===========
+
 Adds [SIML](https://github.com/padolsey/SIML) support to [Brunch](http://brunch.io).
 
-## Usage
+Usage
+-----
 Install the plugin via npm with `npm install --save siml-brunch`.
 
 Or, do manual install:
@@ -11,7 +14,8 @@ Or, do manual install:
 * If you want to use git version of plugin, add
 `"siml-brunch": "git+ssh://git@github.com:Anaphase/siml-brunch.git"`.
 
-## License
+License
+-------
 
 The MIT License (MIT)
 
