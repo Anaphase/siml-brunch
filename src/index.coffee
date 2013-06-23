@@ -1,6 +1,6 @@
 siml = require 'siml'
 
-module.exports = class SIMLCompiler
+module.exports = class SIMLBrunch
   
   brunchPlugin: yes
   type: 'template'
